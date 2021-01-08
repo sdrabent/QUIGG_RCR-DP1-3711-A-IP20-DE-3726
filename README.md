@@ -1,5 +1,5 @@
 # QUIGG_RCR-DP1-3711-A-IP20-DE-3726
-Control your QUIGG RCR DP1 3711-A IP20 DE 3726 RC sockets with your Raspberry Pi and 433 MHz transmitter.
+Control your QUIGG RCR DP1 3711-A IP20 DE 3726 RC sockets with your Raspberry Pi and 433 MHz transmitter. The rc sockets were sold in december 2020 by aldi germany https://archive.is/ek24X .
 
 This is pretty much untouched version of "433Utils" by Martin-Laclaustra and a Fork from https://github.com/Msprg.
 In the RPi_utils folder are pre-compiled applications "send", "codesend" and "RFSniffer", as well as simple bash script "socket", wich is pretty much only thing written by https://github.com/Msprg and updated with the codes for the QUIGG sockets.

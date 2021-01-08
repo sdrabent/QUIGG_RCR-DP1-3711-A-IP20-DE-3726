@@ -1,5 +1,6 @@
 #!/bin/bash
 # Written by Msprg
+# updated to quigg rc sockets by sdrabent
 
 socket_A()
 {

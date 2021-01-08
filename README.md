@@ -16,8 +16,8 @@ Here are the commands for the "lazy quick install" (just copy & paste into the t
 cd ~
 sudo apt update
 sudo apt install -y git wiringpi
-git clone https://github.com/Msprg/control_RCR-DP3-3711-A-IP20-FR-3726.git
-cd control_RCR-DP3-3711-A-IP20-FR-3726/RPi_utils/
+git clone https://github.com/sdrabent/QUIGG_RCR-DP1-3711-A-IP20-DE-3726.git
+cd QUIGG_RCR-DP1-3711-A-IP20-DE-3726/RPi_utils/
 make clean
 make
 chmod +x RFSniffer send codesend socket

@@ -1,4 +1,4 @@
-# control_RCR-DP1-3711-A-IP20-DE-3726
+# QUIGG_RCR-DP1-3711-A-IP20-DE-3726
 Control your QUIGG RCR DP1 3711-A IP20 DE 3726 RC sockets with your Raspberry Pi and 433 MHz transmitter.
 
 This is pretty much untouched version of "433Utils" by Martin-Laclaustra and a Fork from https://github.com/Msprg.

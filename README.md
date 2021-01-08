@@ -25,7 +25,7 @@ chmod +x RFSniffer send codesend socket
 ```
 
 # Usage
-*This repository is intended to be used (as it has been tested) with sockets SilverCrest RCR DP3 3711-A IP20 FR 3726 especially the ```socket``` bash script as it was tested, howewer I can not guarantee you, that it will work with your Pi, transmiter/receiever and RC sockets.*
+*This repository is intended to be used (as it has been tested) with sockets QUIGG RCR DP1 3711-A IP20 DE 3726 especially the ```socket``` bash script as it was tested, howewer I can not guarantee you, that it will work with your Pi, transmiter/receiever and RC sockets.*
 
 ## Hardware
 
